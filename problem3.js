@@ -8,4 +8,4 @@ for(var i = 0; i < myString.length; i++) {
 	}
 }
 
-console.log(count);
+console.log(count)
