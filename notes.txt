@@ -1,0 +1,11 @@
+Notes for problem 3 
+
+//write a javascript function that accepts two arguments , 
+a string and a letter and the function will count the number of
+//occurences of the specified letter with in the str
+
+1. declare anddefine 2 variables, a string and a letter
+2. write a function with a function name and add the two arguments which are the string and the letter
+3. write a for loop
+4. write a function that will count and return how many letters are in the string.
+5. include a console.log as to what you want the output to be
